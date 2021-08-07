@@ -8,7 +8,7 @@ branch = 'polkadot-v0.9.8'
 version = '3.0.0'
 
 [package]
-authors = ['Substrate DevHub <https://github.com/substrate-developer-hub>']
+authors = ['Bryan Chen']
 build = 'build.rs'
 description = 'A fresh FRAME-based Substrate node, ready for hacking.'
 edition = '2018'
