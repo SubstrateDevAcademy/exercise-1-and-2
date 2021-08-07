@@ -7,6 +7,8 @@
 3. Update author in Cargo.toml file
 4. Run a single node testnet and send a transaction
 
+Solution: https://github.com/SubstrateDevAcademy/exercise-1-and-2/commit/b40a67df33241b4ab9214f7d78142c283c69a5ad
+
 ---
 
 ## Exercise Two
@@ -17,6 +19,8 @@
     - Kitty must have one owner
     - A user can have zero or more kitties
     - Users can create kitties
+
+Solution: https://github.com/SubstrateDevAcademy/exercise-1-and-2/blob/solution/submission/kitties.md
 
 ---
 
